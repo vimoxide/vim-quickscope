@@ -1,3 +1,7 @@
+> Is this just a fork of https://github.com/unblevable/quick-scope? Are there important differences?
+
+This is an older version of quick-scope, i had a couple of annoyances with latest plugin updates so this is pinned until i give upstream another shot and see if things are back to stable.
+
 # quick-scope
 An always-on highlight for a unique character in every word on a line to help
 you use <kbd>f</kbd>, <kbd>F</kbd> and family.
